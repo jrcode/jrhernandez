@@ -11,7 +11,7 @@ Nmap is the most popular network enumeration tool on the planet, that's right I 
 Here is how to run a default nmap scan of your own machine:
 
 {% highlight shell %}
-nmap scan 127.0.0.1
+nmap 127.0.0.1
 {% endhighlight %}
 
 Thanks for reading and go love yourself.
